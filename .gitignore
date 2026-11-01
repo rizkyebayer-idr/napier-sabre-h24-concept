@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Generated outputs
+code/results/*.json
+code/figures/*.png
+
+# Manuscript, typesetting sources and submission material are NOT distributed
+# with this repository: the paper is copyrighted by IEEE.
+manuscript/
+build/
+references/
+tools/
+build_all.py
+REVIEWER_RESPONSE.md
+CITATION.cff
+author.jpg
+1571360113 paper.pdf
+conference-template-a4*.docx
+
+# Word / OS clutter
+~$*
+.DS_Store
+Thumbs.db
+*.tmp

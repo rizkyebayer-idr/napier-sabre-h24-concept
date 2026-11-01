@@ -1,0 +1,5 @@
+python-docx>=1.1
+matplotlib>=3.7
+numpy>=1.24
+pymupdf>=1.23
+pywin32>=306        ; hanya untuk export PDF lewat Microsoft Word (Windows)
